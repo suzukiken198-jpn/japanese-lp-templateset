@@ -1,5 +1,18 @@
 [
   {
+    "id": "daikanyama",
+    "name": "relie DAIKANYAMA",
+    "category": "ライフスタイル・カフェ",
+    "description": "写真と余白を生かした、商品・カフェ・読みものを紹介するライフスタイルLP。",
+    "path": "templates/daikanyama",
+    "buildOutput": "dist/client",
+    "sourceUrl": "https://github.com/suzukiken198-jpn/daikanyama",
+    "sourceCommit": "332e9ee8e056a55ddf94b30fa5944815517362cc",
+    "demoUrl": "https://daikanyama.vercel.app/",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "詳細ダイアログ・モバイルメニュー・来店案内あり。住所・営業時間はサンプル。"
+  },
+  {
     "id": "ikeoji-live",
     "name": "IKEOJI LIVE",
     "category": "イベント・ライブ",
@@ -11,18 +24,5 @@
     "demoUrl": "https://ikeozi-live.vercel.app/",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "フォームは入力・確認のみ。メール送信・予約確定・決済は未接続。"
-  },
-  {
-    "id": "daikanyama",
-    "name": "relie DAIKANYAMA",
-    "category": "ライフスタイル・カフェ",
-    "description": "写真と余白を生かした、商品・カフェ・読みものを紹介するライフスタイルLP。",
-    "path": "templates/daikanyama",
-    "buildOutput": "dist/client",
-    "sourceUrl": "https://github.com/suzukiken198-jpn/daikanyama",
-    "sourceCommit": "332e9ee8e056a55ddf94b30fa5944815517362cc",
-    "demoUrl": null,
-    "license": "SEE LICENSE IN LICENSE",
-    "integrationStatus": "詳細ダイアログ・モバイルメニュー・来店案内あり。住所・営業時間はサンプル。"
   }
 ]
