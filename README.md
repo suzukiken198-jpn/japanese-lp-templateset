@@ -13,7 +13,7 @@
 | テンプレート | 用途 | プレビュー | 編集・起動 |
 | --- | --- | --- | --- |
 | relie DAIKANYAMA | ライフスタイル・カフェ | [デモ](https://daikanyama.vercel.app/) | [ガイド](templates/daikanyama/TEMPLATE-GUIDE.md) |
-| MOVE FIT GYM | ジム・フィットネス | 公開準備中 | [ガイド](templates/move-fit-gym/TEMPLATE-GUIDE.md) |
+| MOVE FIT GYM | ジム・フィットネス | [デモ](https://move-fit-gym-pi.vercel.app/) | [ガイド](templates/move-fit-gym/TEMPLATE-GUIDE.md) |
 | IKEOJI LIVE | ライブ・イベント | [デモ](https://ikeozi-live.vercel.app/) | [ガイド](templates/ikeoji-live/TEMPLATE-GUIDE.md) |
 
 機械処理用の一覧と取り込み元は [templates.json](templates.json) に記録しています。未完成のサイトを収録済みとして数えません。

@@ -21,7 +21,7 @@
     "buildOutput": "dist",
     "sourceUrl": "https://move-fit-gym.sadanan.chatgpt.site/",
     "sourceCommit": "30cdeff7bf8b25112b4119d77157102e7f61a638",
-    "demoUrl": null,
+    "demoUrl": "https://move-fit-gym-pi.vercel.app/",
     "previewImage": "public/assets/hero.webp",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・予約確定・決済は未接続。"

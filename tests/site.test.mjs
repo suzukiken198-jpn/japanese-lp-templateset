@@ -14,6 +14,12 @@ test('guide uses current catalog and honest commercial terms', async () => {
   assert.ok(!html.includes('2,000'));
   assert.ok(html.includes('<h2>FAQ</h2>'));
   assert.ok(html.includes('日本語LP<br>テンプレート集'));
+  assert.ok(html.includes('収録テンプレート一覧はこちら'));
+  assert.ok(!html.includes('目標は、業種別の約10サイト'));
+  assert.ok(!html.includes('ジムLPは編集用ソースの確認後'));
+  assert.equal(entries.at(-1).id, 'ikeoji-live');
+  assert.ok(html.includes('https://daikanyama.vercel.app/'));
+  assert.ok(html.includes('https://move-fit-gym-pi.vercel.app/'));
   assert.ok(!html.includes('つくる、その先へ'));
   assert.ok(html.includes('商用で使えますか？'));
   assert.ok(!html.includes('今、10サイトすべて使えますか'));
