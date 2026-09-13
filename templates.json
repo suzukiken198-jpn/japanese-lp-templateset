@@ -69,6 +69,20 @@
     "integrationStatus": "サービス詳細・利用者の声の切替・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。事業所情報・料金・実績は架空の表示例。"
   },
   {
+    "id": "seitai-template",
+    "name": "やすらぎ整体院",
+    "category": "整体・ボディケア",
+    "description": "白・生成り・オリーブグリーンを基調に、整体メニュー・料金・施術の流れ・お客様の声・予約導線を紹介する整体院LP。",
+    "path": "templates/seitai-template",
+    "buildOutput": "dist",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": null,
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・空き枠確認・予約確定・決済は未接続。院名・住所・料金はサンプル。"
+  },
+  {
     "id": "sawayaka-lp",
     "name": "SAWAYAKA LP",
     "category": "相談サービス・コーチング",
