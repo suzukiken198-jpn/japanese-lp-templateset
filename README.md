@@ -8,12 +8,13 @@
 
 ## 収録テンプレート
 
-現在 **3サイト** を収録。制作者が新作を順次追加します。
+現在 **4サイト** を収録。制作者が新作を順次追加します。
 
 | テンプレート | 用途 | プレビュー | 編集・起動 |
 | --- | --- | --- | --- |
 | relie DAIKANYAMA | ライフスタイル・カフェ | [デモ](https://daikanyama.vercel.app/) | [ガイド](templates/daikanyama/TEMPLATE-GUIDE.md) |
 | MOVE FIT GYM | ジム・フィットネス | [デモ](https://move-fit-gym-pi.vercel.app/) | [ガイド](templates/move-fit-gym/TEMPLATE-GUIDE.md) |
+| SAWAYAKA LP | 相談サービス・コーチング | 公開準備中 | [ガイド](templates/sawayaka-lp/TEMPLATE-GUIDE.md) |
 | IKEOJI LIVE | ライブ・イベント | [デモ](https://ikeozi-live.vercel.app/) | [ガイド](templates/ikeoji-live/TEMPLATE-GUIDE.md) |
 
 機械処理用の一覧と取り込み元は [templates.json](templates.json) に記録しています。未完成のサイトを収録済みとして数えません。
@@ -28,7 +29,7 @@ npm ci
 npm run dev
 ```
 
-代官山LPは `templates/daikanyama`、GYMは `templates/move-fit-gym` を選びます。いずれも `npm run build` で公開用ファイルを作れます。各サイトは独立しており、必要なフォルダだけコピーして利用できます。
+代官山LPは `templates/daikanyama`、GYMは `templates/move-fit-gym`、SAWAYAKAは `templates/sawayaka-lp` を選びます。いずれも `npm run build` で公開用ファイルを作れます。各サイトは独立しており、必要なフォルダだけコピーして利用できます。
 
 ## すべてのサイトを確認・配布する
 
