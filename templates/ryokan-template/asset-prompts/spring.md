@@ -1,0 +1,10 @@
+Use case: photorealistic-natural
+Asset type: Japanese ryokan spring accommodation plan-card photograph.
+Primary request: Generate ONE original extra-wide panoramic photograph, 1344x384 pixels, aspect ratio 3.5:1, filling the entire canvas.
+Reference guidance: The previously inspected /Users/suzukikenichi/Desktop/ryokan.png is a visual style and composition reference only. Match the spring plan-card photograph at source region x32 y928 w313 h85. Create an original photograph of that type of scene; do not reproduce or crop the webpage.
+Scene/subject: View from a traditional Japanese tatami guest room in spring. The left two-thirds look out through a wide open window onto abundant full pink cherry blossoms in the near foreground and layered blue mountains in the distance. The right third shows a cozy room interior, dark wooden vertical columns and window frame, pale shoji, part of a low dark wooden table and a softly glowing amber paper lantern.
+Composition/framing: Exact extra-wide horizontal crop showing both landscape and some interior. Seated eye-level viewpoint; cherry blossoms across the lower left and around the mountain view; right-side wood columns, lantern and low table must remain visible in the shallow panoramic frame. Minimal ceiling and floor, naturally cropped architectural photograph. Straight structural lines, realistic proportions, no fisheye distortion.
+Lighting/mood: Warm gentle spring daylight, serene authentic ryokan atmosphere, balanced window exposure with visible interior detail and subtle amber lantern glow.
+Color palette: Soft natural cherry-blossom pink, blue mountain distance, deep green foothills, honey amber light and warm dark brown wood, consistent with the reference's photographic palette.
+Materials/textures: Photoreal petals, tree branches, wood grain, woven tatami and translucent paper. Natural travel photography, no illustration or synthetic CGI finish.
+Constraints: One single photograph, no people, text, lettering, logos, watermark, UI, navigation, buttons, page layout, collage or borders.

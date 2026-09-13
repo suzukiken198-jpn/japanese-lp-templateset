@@ -8,13 +8,14 @@
 
 ## 収録テンプレート
 
-現在 **4サイト** を収録。制作者が新作を順次追加します。
+現在 **5サイト** を収録。制作者が新作を順次追加します。
 
 | テンプレート | 用途 | プレビュー | 編集・起動 |
 | --- | --- | --- | --- |
 | relie DAIKANYAMA | ライフスタイル・カフェ | [デモ](https://daikanyama.vercel.app/) | [ガイド](templates/daikanyama/TEMPLATE-GUIDE.md) |
 | MOVE FIT GYM | ジム・フィットネス | [デモ](https://move-fit-gym-pi.vercel.app/) | [ガイド](templates/move-fit-gym/TEMPLATE-GUIDE.md) |
 | SAWAYAKA LP | 相談サービス・コーチング | [デモ](https://sawayaka-lp.vercel.app/) | [ガイド](templates/sawayaka-lp/TEMPLATE-GUIDE.md) |
+| 月の湯 RYOKAN | 旅館・宿泊施設 | 公開準備中 | [ガイド](templates/ryokan-template/TEMPLATE-GUIDE.md) |
 | IKEOJI LIVE | ライブ・イベント | [デモ](https://ikeozi-live.vercel.app/) | [ガイド](templates/ikeoji-live/TEMPLATE-GUIDE.md) |
 
 機械処理用の一覧と取り込み元は [templates.json](templates.json) に記録しています。未完成のサイトを収録済みとして数えません。

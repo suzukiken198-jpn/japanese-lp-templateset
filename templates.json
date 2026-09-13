@@ -41,6 +41,20 @@
     "integrationStatus": "メニュー・料金プラン選択・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。"
   },
   {
+    "id": "ryokan-template",
+    "name": "月の湯 RYOKAN",
+    "category": "旅館・宿泊施設",
+    "description": "露天風呂・和紙・金色を生かし、客室・料理・宿泊プラン・周辺観光を紹介する旅館LP。",
+    "path": "templates/ryokan-template",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": null,
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "詳細表示・季節別プラン選択・宿泊希望の入力確認あり。空室照会・送信・保存・予約確定・決済は未接続。"
+  },
+  {
     "id": "ikeoji-live",
     "name": "IKEOJI LIVE",
     "category": "イベント・ライブ",
