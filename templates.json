@@ -55,6 +55,20 @@
     "integrationStatus": "サービス詳細・利用者の声の切替・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。事業所情報・料金・実績は架空の表示例。"
   },
   {
+    "id": "day-service-template",
+    "name": "やすらぎデイサービス",
+    "category": "通所介護・福祉",
+    "description": "緑・オレンジ・白を基調に、プログラム・1日の流れ・料金・施設・スタッフを紹介するデイサービスLP。",
+    "path": "templates/day-service-template",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": "https://day-service-template.vercel.app/",
+    "previewImage": "public/assets/day-service-hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "サービス詳細・利用者の声の切替・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。事業所情報・料金・実績は架空の表示例。"
+  },
+  {
     "id": "sawayaka-lp",
     "name": "SAWAYAKA LP",
     "category": "相談サービス・コーチング",
