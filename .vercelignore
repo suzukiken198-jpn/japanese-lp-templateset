@@ -1,0 +1,9 @@
+**/node_modules/
+**/dist/
+**/.prerender/
+**/.vercel/
+**/.git/
+**/.env
+**/.env.*
+**/.DS_Store
+**/releases/
