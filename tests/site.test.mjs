@@ -18,6 +18,9 @@ test('guide uses current catalog and honest commercial terms', async () => {
   assert.ok(!html.includes('目標は、業種別の約10サイト'));
   assert.ok(!html.includes('ジムLPは編集用ソースの確認後'));
   assert.equal(entries.at(-1).id, 'ikeoji-live');
+  assert.equal(entries.at(-2).id, 'clinic-template');
+  assert.ok(html.includes('https://clinic-template-hazel.vercel.app/'));
+  assert.ok(html.includes('そら内科クリニック'));
   assert.ok(html.includes('https://daikanyama.vercel.app/'));
   assert.ok(html.includes('https://move-fit-gym-pi.vercel.app/'));
   assert.ok(!html.includes('つくる、その先へ'));

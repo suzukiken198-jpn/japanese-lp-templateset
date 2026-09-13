@@ -1,0 +1,9 @@
+Use case: photorealistic-natural
+Asset type: Japanese clinic landing-page respiratory medicine service photograph, displayed as a small wide thumbnail.
+Primary request: Generate ONE original wide landscape photograph, 1280x600 pixels, aspect ratio 32:15, full-bleed.
+Input images: Image 1 (/Users/suzukikenichi/Desktop/クリニック.jpg) is a composition and style reference only. Match ONLY the photograph at source region x385 y750 w112 h52 within the 640x1773 reference. Do not reproduce the whole webpage, adjacent cards, icons, or text.
+Scene/subject: A Japanese woman doctor in a white coat seated at a white consultation desk, writing on a plain sheet of paper with a pen in her right hand, left hand gently resting on the paper. Her white-coated torso occupies the right half and her hands the lower middle. Pale blouse under the coat, with a subtle stethoscope at the chest as in the reference. A bright window and softly focused green potted plant are behind the desk toward the left.
+Composition/framing: Close cropped torso and hands from a slight side angle across the desk. Face and head entirely outside the top of the frame. Both hands clearly visible, with a natural correct pen grip and plausible fingers. Calm uncluttered composition that reads clearly at 112x52.
+Style/medium: Photoreal medical lifestyle photography, authentic natural skin texture, realistic coat fabric and soft background depth of field.
+Lighting/color: Airy white, pale blue and soft teal, soft natural daylight through the window, gentle green plant accents, bright but detailed highlights, matching the supplied clinic reference.
+Constraints: One photograph only, one doctor. No visible face or other people. No readable writing on the paper, text, copy, signage, badges, logos, watermarks, icons, UI, navigation, buttons, webpage layout, borders or collage.

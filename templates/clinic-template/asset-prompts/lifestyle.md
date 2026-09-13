@@ -1,0 +1,9 @@
+Use case: photorealistic-natural
+Asset type: Japanese internal medicine clinic landing-page medical service thumbnail.
+Primary request: Generate ONE new wide landscape photograph, 1280x600 pixels, aspect ratio 32:15, full-bleed.
+Input images: Image 1 (/Users/suzukikenichi/Desktop/クリニック.jpg) is a visual reference only. Match ONLY the small photograph at source region x143 y750 w112 h52 in the 640x1773 reference: a cropped white-coated doctor's torso, stethoscope and gently joined hands. Do not generate the whole webpage or any adjacent card text/icons.
+Scene/subject: Japanese doctor seated at a white consultation desk in a pale bright modern clinic, wearing a clean white coat over a light blue blouse with a dark blue stethoscope around the neck. Both hands gently together in a relaxed listening pose, fingers naturally resting against each other, forearms supported on the white desk.
+Composition/framing: Close horizontal crop from the base of the neck to the desk, face and head completely outside the image. White coat torso and stethoscope occupy the upper center; joined hands clearly visible in the lower center-left, matching the reference. Keep the hands fully in frame and anatomically plausible. Soft bright clinic background, subtle depth of field, no distracting props.
+Style/medium: Photoreal clinical lifestyle photography, natural skin texture and realistic coat fabric folds, calm reassuring consultation atmosphere.
+Lighting/color: Airy white, pale blue and subtle soft teal, diffuse natural daylight, gentle shadows, clean bright exposure with visible details; match the supplied clinic reference.
+Constraints: One photograph only. One doctor, exactly two natural hands. No visible face, no other people, no text, signage, badges, logos, watermark, icons, UI, copy, navigation, buttons, webpage layout, collage or border.

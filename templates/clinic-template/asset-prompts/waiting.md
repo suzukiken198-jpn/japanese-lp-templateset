@@ -1,0 +1,9 @@
+Use case: photorealistic-natural
+Asset type: Japanese clinic landing-page facility gallery waiting-room photograph.
+Primary request: Generate ONE original landscape photograph, 1152x672 pixels, aspect ratio 12:7, full-bleed.
+Input images: Image 1 (/Users/suzukikenichi/Desktop/クリニック.jpg) is a visual style and composition reference only. Match ONLY the waiting-room photograph at source region x143 y1139 w110 h64 within the 640x1773 reference. Create a new photograph of that room type, not the whole webpage or a screenshot crop.
+Scene/subject: An airy bright Japanese neighborhood clinic waiting room. Neatly arranged beige upholstered chairs with light natural wood frames and armrests. Large windows along the right and rear admit abundant soft daylight; green potted plants near the windows. Clean white walls, pale natural wood trim and a light neutral floor. A clear central aisle between the chairs, welcoming uncluttered interior.
+Composition/framing: Landscape architectural photograph from a corner at seated-to-standing eye level, looking diagonally across the waiting room toward the large windows. A few beige wood chairs in the foreground and additional chairs receding naturally beside the windows. Match the reference's intimate modest clinic scale. Realistic straight architectural lines and furniture proportions, no fisheye.
+Style/medium: Photoreal interior photography, visible subtle upholstery weave and wood grain, natural glass and soft shadows. Calm, clean and comfortable.
+Lighting/color: Bright diffuse natural daylight, airy white, pale blue window light, subtle soft teal undertones, beige upholstery, light wood and fresh green plants; consistent with the supplied clinic reference. Preserve detail in the highlights.
+Constraints: One photograph only. No people, lettering, signs, logos, readable material, watermark, copy, UI, icons, navigation, buttons, webpage layout, borders or collage.

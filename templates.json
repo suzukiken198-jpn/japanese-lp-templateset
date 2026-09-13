@@ -55,6 +55,20 @@
     "integrationStatus": "詳細表示・季節別プラン選択・宿泊希望の入力確認あり。空室照会・送信・保存・予約確定・決済は未接続。"
   },
   {
+    "id": "clinic-template",
+    "name": "そら内科クリニック",
+    "category": "クリニック・医療",
+    "description": "白・水色・青緑を基調に、診療案内・医師・院内設備・診療時間を紹介するクリニックLP。",
+    "path": "templates/clinic-template",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": "https://clinic-template-hazel.vercel.app/",
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "診療案内の詳細表示・院内写真の切替・FAQ・予約の入力確認あり。送信・保存・空き枠確認・予約確定・決済は未接続。院名や医師・住所は架空の表示例。"
+  },
+  {
     "id": "ikeoji-live",
     "name": "IKEOJI LIVE",
     "category": "イベント・ライブ",
