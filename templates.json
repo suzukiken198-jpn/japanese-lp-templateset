@@ -13,6 +13,20 @@
     "integrationStatus": "詳細ダイアログ・モバイルメニュー・来店案内あり。住所・営業時間はサンプル。"
   },
   {
+    "id": "move-fit-gym",
+    "name": "MOVE FIT GYM",
+    "category": "ジム・フィットネス",
+    "description": "黒・白・ライムグリーンを基調にした、プログラム・施設・料金・体験予約を紹介するジムLP。",
+    "path": "templates/move-fit-gym",
+    "buildOutput": "dist",
+    "sourceUrl": "https://move-fit-gym.sadanan.chatgpt.site/",
+    "sourceCommit": "30cdeff7bf8b25112b4119d77157102e7f61a638",
+    "demoUrl": null,
+    "previewImage": "public/assets/hero.webp",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・予約確定・決済は未接続。"
+  },
+  {
     "id": "ikeoji-live",
     "name": "IKEOJI LIVE",
     "category": "イベント・ライブ",

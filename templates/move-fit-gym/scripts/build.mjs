@@ -1,0 +1,12 @@
+import { mkdir, rm, cp, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
+import { dirname, resolve } from 'node:path';
+const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
+const out = resolve(root, 'dist');
+await rm(out, {recursive:true, force:true});
+await mkdir(out, {recursive:true});
+await cp(resolve(root, 'src'), out, {recursive:true});
+await cp(resolve(root, 'public'), out, {recursive:true});
+await cp(resolve(root, 'LICENSE'), resolve(out, 'LICENSE'));
+await writeFile(resolve(out, 'THIRD-PARTY-NOTICES.txt'), 'MOVE FIT GYM uses native HTML, CSS and JavaScript. No bundled third-party runtime libraries. Asset provenance: see ASSETS.md in the source package.\n');
+console.log('Built MOVE FIT GYM → dist');

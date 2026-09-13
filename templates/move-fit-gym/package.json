@@ -1,0 +1,12 @@
+{
+  "name": "move-fit-gym",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "dev": "npm run build && node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/template.test.mjs"
+  }
+}
