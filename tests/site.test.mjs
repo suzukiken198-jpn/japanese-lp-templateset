@@ -20,8 +20,10 @@ test('guide uses current catalog and honest commercial terms', async () => {
   assert.equal(entries.at(-1).id, 'ikeoji-live');
   assert.equal(entries.at(-2).id, 'move-fit-gym');
   assert.equal(entries.at(-3).id, 'sawayaka-lp');
-  assert.equal(entries.at(-4).id, 'home-care-template');
-  assert.equal(entries.at(-5).id, 'clinic-template');
+  assert.equal(entries.at(-4).id, 'cake-shop-template');
+  assert.ok(entries.findIndex(t => t.id === 'clinic-template') < entries.findIndex(t => t.id === 'home-care-template'));
+  assert.ok(html.includes('Pâtisserie Lumière'));
+  assert.ok(html.includes('templates/cake-shop-template'));
   assert.ok(html.includes('https://home-care-template-psi.vercel.app/'));
   assert.ok(html.includes('あすの訪問介護'));
   assert.ok(html.includes('https://clinic-template-hazel.vercel.app/'));

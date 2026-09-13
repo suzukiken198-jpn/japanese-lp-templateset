@@ -83,6 +83,20 @@
     "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・空き枠確認・予約確定・決済は未接続。院名・住所・料金はサンプル。"
   },
   {
+    "id": "cake-shop-template",
+    "name": "Pâtisserie Lumière",
+    "category": "ケーキ屋・洋菓子店",
+    "description": "白・クリーム・ブラウンの温かなデザインで、季節のケーキ・ギフト・店舗情報を紹介する洋菓子店LP。",
+    "path": "templates/cake-shop-template",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": "https://cake-shop-template-two.vercel.app/",
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "商品検索・カテゴリー切替・数量とサイズ選択・注文内容の入力確認あり。送信・保存・在庫確保・予約確定・決済は未接続。店舗・商品・価格・原材料は架空の表示例。"
+  },
+  {
     "id": "sawayaka-lp",
     "name": "SAWAYAKA LP",
     "category": "相談サービス・コーチング",
