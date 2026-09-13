@@ -77,7 +77,7 @@
     "buildOutput": "dist",
     "sourceUrl": null,
     "sourceCommit": null,
-    "demoUrl": null,
+    "demoUrl": "https://yasuragi-seitai-template.vercel.app/",
     "previewImage": "public/assets/hero.png",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・空き枠確認・予約確定・決済は未接続。院名・住所・料金はサンプル。"
