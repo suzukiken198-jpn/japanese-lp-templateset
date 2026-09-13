@@ -12,6 +12,13 @@ test('guide uses current catalog and honest commercial terms', async () => {
   assert.ok(html.includes('新しい商用サイト'));
   assert.ok(!html.includes('{{'));
   assert.ok(!html.includes('2,000'));
+  assert.ok(html.includes('<h2>FAQ</h2>'));
+  assert.ok(html.includes('日本語LP<br>テンプレート集'));
+  assert.ok(!html.includes('つくる、その先へ'));
+  assert.ok(html.includes('商用で使えますか？'));
+  assert.ok(!html.includes('今、10サイトすべて使えますか'));
+  assert.ok(!html.includes('BUILT TOGETHER'));
+  assert.ok(!html.includes('Pull Requestから参加'));
   for (const match of html.matchAll(/(?:src|href)="(\/[^"#]*)"/g)) await access(`site/dist${match[1]}`);
   const ids = new Set([...html.matchAll(/id="([^"]+)"/g)].map(m => m[1]));
   for (const match of html.matchAll(/href="#([^"]+)"/g)) assert.ok(ids.has(match[1]), `Broken anchor: ${match[1]}`);
