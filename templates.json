@@ -62,7 +62,7 @@
     "path": "templates/day-service-template",
     "buildOutput": "dist/client",
     "sourceUrl": null,
-    "sourceCommit": null,
+    "sourceCommit": "939f80272950866d1da7871d54e9542300e0c660",
     "demoUrl": "https://day-service-template.vercel.app/",
     "previewImage": "public/assets/day-service-hero.png",
     "license": "SEE LICENSE IN LICENSE",
