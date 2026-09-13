@@ -1,6 +1,8 @@
 # SAWAYAKA LP
 
 青空・白・グリーンの爽やかな相談サービス／コーチング向けLPです。
+[公開デモを見る](https://sawayaka-lp.vercel.app/)
+
 元デザインの写真と文字を分離し、見出し・料金・ボタンを編集できるReactのページにしました。
 
 `npm ci` → `npm run dev` で確認、`npm run build` で公開用ファイルを作成します。

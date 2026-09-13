@@ -35,7 +35,7 @@
     "buildOutput": "dist/client",
     "sourceUrl": null,
     "sourceCommit": null,
-    "demoUrl": null,
+    "demoUrl": "https://sawayaka-lp.vercel.app/",
     "previewImage": "public/assets/hero.png",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "メニュー・料金プラン選択・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。"
