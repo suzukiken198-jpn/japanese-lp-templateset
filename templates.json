@@ -13,20 +13,6 @@
     "integrationStatus": "詳細ダイアログ・モバイルメニュー・来店案内あり。住所・営業時間はサンプル。"
   },
   {
-    "id": "move-fit-gym",
-    "name": "MOVE FIT GYM",
-    "category": "ジム・フィットネス",
-    "description": "黒・白・ライムグリーンを基調にした、プログラム・施設・料金・体験予約を紹介するジムLP。",
-    "path": "templates/move-fit-gym",
-    "buildOutput": "dist",
-    "sourceUrl": "https://move-fit-gym.sadanan.chatgpt.site/",
-    "sourceCommit": "30cdeff7bf8b25112b4119d77157102e7f61a638",
-    "demoUrl": "https://move-fit-gym-pi.vercel.app/",
-    "previewImage": "public/assets/hero.webp",
-    "license": "SEE LICENSE IN LICENSE",
-    "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・予約確定・決済は未接続。"
-  },
-  {
     "id": "sawayaka-lp",
     "name": "SAWAYAKA LP",
     "category": "相談サービス・コーチング",
@@ -67,6 +53,34 @@
     "previewImage": "public/assets/hero.png",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "診療案内の詳細表示・院内写真の切替・FAQ・予約の入力確認あり。送信・保存・空き枠確認・予約確定・決済は未接続。院名や医師・住所は架空の表示例。"
+  },
+  {
+    "id": "home-care-template",
+    "name": "あすの訪問介護",
+    "category": "訪問介護・福祉",
+    "description": "白・ピンク・青緑のやさしいデザインで、訪問介護サービス・料金・スタッフ・利用の流れを紹介するLP。",
+    "path": "templates/home-care-template",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": "https://home-care-template-psi.vercel.app/",
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "サービス詳細・利用者の声の切替・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。事業所情報・料金・実績は架空の表示例。"
+  },
+  {
+    "id": "move-fit-gym",
+    "name": "MOVE FIT GYM",
+    "category": "ジム・フィットネス",
+    "description": "黒・白・ライムグリーンを基調にした、プログラム・施設・料金・体験予約を紹介するジムLP。",
+    "path": "templates/move-fit-gym",
+    "buildOutput": "dist",
+    "sourceUrl": "https://move-fit-gym.sadanan.chatgpt.site/",
+    "sourceCommit": "30cdeff7bf8b25112b4119d77157102e7f61a638",
+    "demoUrl": "https://move-fit-gym-pi.vercel.app/",
+    "previewImage": "public/assets/hero.webp",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "予約フォームは入力・確認のみ。送信・保存・予約確定・決済は未接続。"
   },
   {
     "id": "ikeoji-live",
