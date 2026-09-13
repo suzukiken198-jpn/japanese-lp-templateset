@@ -40,31 +40,6 @@ npm run package:all
 
 `releases/` に、収録サイトのソース・公開用ファイル・素材・ガイド・ライセンスをまとめたZIPとSHA-256チェックサムを作成します。ZIP作成には `zip` コマンドが必要です。
 
-## 新作を追加する・共同編集する
-
-- [追加手順](docs/ADDING-A-TEMPLATE.md)に従い、`templates/<名前>/` と一覧を追加します。
-- 変更はブランチを作ってPull Requestで提案してください。[CONTRIBUTING.md](CONTRIBUTING.md)に手順があります。
-- 不具合や新作の相談はIssueへ。共同制作者への直接書き込み権限は、管理者が個別に付与します。
-- 元リポジトリからは初回にソースをコピーしています。元リポジトリの更新が自動で同期される仕組みではありません。
-
-## Vercelへ公開する
-
-### パッケージの案内LP
-
-案内ページのソースは `site/` です。リポジトリのルートをVercelへ接続すると、ルートの `vercel.json` に従い `npm run build:site` で `site/dist` を公開します。テンプレートの収録件数・紹介カードは `templates.json` から生成します。ローカル確認は `npm run dev:site`。[案内LPの編集方法](site/README.md)も参照してください。
-
-### 個別テンプレート
-
-各テンプレートは案内LPとは別のVercelプロジェクトとして作成します。新しいサイトのRoot Directoryには `templates/<サイト名>` を指定してください。
-
-このリポジトリをインポートし、公開したいテンプレートをRoot Directoryに設定します。
-
-| Root Directory | Build Command | Output Directory |
-| --- | --- | --- |
-| `templates/ikeoji-live` | `npm run build` | `dist` |
-| `templates/daikanyama` | `npm run build` | `dist/client` |
-
-各テンプレートは別々のVercelプロジェクトへ公開できます。リポジトリ作成だけで既存の本番サイトやその自動デプロイ設定を変更することはありません。
 
 ## 商用ライセンスと申込
 
