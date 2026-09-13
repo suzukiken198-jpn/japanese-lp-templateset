@@ -13,20 +13,6 @@
     "integrationStatus": "詳細ダイアログ・モバイルメニュー・来店案内あり。住所・営業時間はサンプル。"
   },
   {
-    "id": "sawayaka-lp",
-    "name": "SAWAYAKA LP",
-    "category": "相談サービス・コーチング",
-    "description": "青空・白・グリーンの爽やかなデザインで、サービス・料金・無料相談を紹介するLP。",
-    "path": "templates/sawayaka-lp",
-    "buildOutput": "dist/client",
-    "sourceUrl": null,
-    "sourceCommit": null,
-    "demoUrl": "https://sawayaka-lp.vercel.app/",
-    "previewImage": "public/assets/hero.png",
-    "license": "SEE LICENSE IN LICENSE",
-    "integrationStatus": "メニュー・料金プラン選択・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。"
-  },
-  {
     "id": "ryokan-template",
     "name": "月の湯 RYOKAN",
     "category": "旅館・宿泊施設",
@@ -67,6 +53,20 @@
     "previewImage": "public/assets/hero.png",
     "license": "SEE LICENSE IN LICENSE",
     "integrationStatus": "サービス詳細・利用者の声の切替・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。事業所情報・料金・実績は架空の表示例。"
+  },
+  {
+    "id": "sawayaka-lp",
+    "name": "SAWAYAKA LP",
+    "category": "相談サービス・コーチング",
+    "description": "青空・白・グリーンの爽やかなデザインで、サービス・料金・無料相談を紹介するLP。",
+    "path": "templates/sawayaka-lp",
+    "buildOutput": "dist/client",
+    "sourceUrl": null,
+    "sourceCommit": null,
+    "demoUrl": "https://sawayaka-lp.vercel.app/",
+    "previewImage": "public/assets/hero.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "integrationStatus": "メニュー・料金プラン選択・FAQ・相談の入力確認あり。送信・保存・予約確定・決済は未接続。"
   },
   {
     "id": "move-fit-gym",

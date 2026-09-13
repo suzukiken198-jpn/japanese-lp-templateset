@@ -13,10 +13,10 @@
 | テンプレート | 用途 | プレビュー | 編集・起動 |
 | --- | --- | --- | --- |
 | relie DAIKANYAMA | ライフスタイル・カフェ | [デモ](https://daikanyama.vercel.app/) | [ガイド](templates/daikanyama/TEMPLATE-GUIDE.md) |
-| SAWAYAKA LP | 相談サービス・コーチング | [デモ](https://sawayaka-lp.vercel.app/) | [ガイド](templates/sawayaka-lp/TEMPLATE-GUIDE.md) |
 | 月の湯 RYOKAN | 旅館・宿泊施設 | [デモ](https://ryokan-template.vercel.app/) | [ガイド](templates/ryokan-template/TEMPLATE-GUIDE.md) |
 | そら内科クリニック | クリニック・医療 | [デモ](https://clinic-template-hazel.vercel.app/) | [ガイド](templates/clinic-template/TEMPLATE-GUIDE.md) |
 | あすの訪問介護 | 訪問介護・福祉 | [デモ](https://home-care-template-psi.vercel.app/) | [ガイド](templates/home-care-template/TEMPLATE-GUIDE.md) |
+| SAWAYAKA LP | 相談サービス・コーチング | [デモ](https://sawayaka-lp.vercel.app/) | [ガイド](templates/sawayaka-lp/TEMPLATE-GUIDE.md) |
 | MOVE FIT GYM | ジム・フィットネス | [デモ](https://move-fit-gym-pi.vercel.app/) | [ガイド](templates/move-fit-gym/TEMPLATE-GUIDE.md) |
 | IKEOJI LIVE | ライブ・イベント | [デモ](https://ikeozi-live.vercel.app/) | [ガイド](templates/ikeoji-live/TEMPLATE-GUIDE.md) |
 

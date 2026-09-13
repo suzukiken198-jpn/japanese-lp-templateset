@@ -19,8 +19,9 @@ test('guide uses current catalog and honest commercial terms', async () => {
   assert.ok(!html.includes('ジムLPは編集用ソースの確認後'));
   assert.equal(entries.at(-1).id, 'ikeoji-live');
   assert.equal(entries.at(-2).id, 'move-fit-gym');
-  assert.equal(entries.at(-3).id, 'home-care-template');
-  assert.equal(entries.at(-4).id, 'clinic-template');
+  assert.equal(entries.at(-3).id, 'sawayaka-lp');
+  assert.equal(entries.at(-4).id, 'home-care-template');
+  assert.equal(entries.at(-5).id, 'clinic-template');
   assert.ok(html.includes('https://home-care-template-psi.vercel.app/'));
   assert.ok(html.includes('あすの訪問介護'));
   assert.ok(html.includes('https://clinic-template-hazel.vercel.app/'));
